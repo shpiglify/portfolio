@@ -1,5 +1,6 @@
-
 $(function() {
+    var now = new Date()
+    document.getElementById('year').innerHTML = now.getFullYear()
     var isMobile;
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
      isMobile = true;
