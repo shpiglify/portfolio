@@ -20,11 +20,11 @@ $(document).ready(function(){
         detail: 'online scheduling app. find nearby businesses and services, or create your own business landing page',
         link:'https://make-appoint.herokuapp.com/'
       },
-      powur: {
-        title: 'Powur.com',
-        tag: 'MULTI-LEVEL MARKETING.',
-        detail: 'Powur is a multi-level marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-        link: 'http://www.powur.com/with/42'
+      taskManager: {
+        title: 'nodejs + vue fullstack simple app',
+        tag: 'server side C.R.U.D.L APP',
+        detail: 'an online task manager',
+        link: 'https://node-app-task-manager.herokuapp.com/'
       },
       never: {
         title: 'NeverSurrender',
