@@ -18,7 +18,7 @@ $(document).ready(function(){
         title: 'makeappoint',
         tag: 'SERVICES BUSINESS.',
         detail: 'online scheduling app. find nearby businesses and services, or create your own business landing page',
-        link:'https://make-appoint.herokuapp.com/'
+        link:'https://make-appoint-demo.herokuapp.com/'
       },
       taskManager: {
         title: 'nodejs + vue fullstack simple app',
