@@ -26,10 +26,11 @@ $(document).ready(function(){
         detail: 'an online task manager',
         link: 'https://node-app-task-manager.herokuapp.com/'
       },
-      never: {
-        title: 'NeverSurrender',
-        tag: 'ALS AWARENESS.',
-        detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
+      natours: {
+        title: 'Natours- lending page demo',
+        tag: 'css & sass skills demonstration',
+        detail: 'Natours is a lending page app for nature trips company.',
+        link: 'https://shpiglify.github.io/natours/'
       },
       themall: {
         title: 'The Mall',
