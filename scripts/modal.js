@@ -27,7 +27,7 @@ $(document).ready(function(){
         link: 'https://node-app-task-manager.herokuapp.com/'
       },
       natours: {
-        title: 'Natours-lending page demo',
+        title: 'Natours-landing page demo',
         tag: 'css & sass skills demonstration',
         detail: 'Natours is a lending page app for nature trips company.',
         link: 'https://shpiglify.github.io/natours/'
